@@ -1,1 +1,2 @@
-config - master -prod
+config:
+  info: config - master -prod
