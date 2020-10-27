@@ -1,1 +1,2 @@
-config - master -dev
+config:
+  info: config - master -dev
